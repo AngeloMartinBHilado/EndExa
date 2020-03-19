@@ -1,4 +1,4 @@
-google-site-verification: googlea027dec21072294b.html
+
 <?php 
 $navigation = (isset($_GET['navigation']) && $_GET['navigation'] != '') ? $_GET['navigation']: '';
 
@@ -11,7 +11,7 @@ $navigation = (isset($_GET['navigation']) && $_GET['navigation'] != '') ? $_GET[
 
 
 <html> 
-    <head> <!-- credits: john paul maja :D <3 -->
+    <head> <meta name="google-site-verification" content="J6R1dIbr9vv_kSRWFJc11l0mkDmIBwqtO3G_4jZbOHw" /></head>
       <title>Endterm Exam</title>
       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
       <link rel="stylesheet" type="text/css" href="css/style.css">
