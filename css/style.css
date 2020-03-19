@@ -8,7 +8,10 @@
     margin: 0;
     width: 50%;
     margin: auto;
-    background-image: url("images_pexels.png");
+    background-image: url('img_pexels.png');
+  	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	background-size: cover;
   }
 
   .header {
