@@ -23,6 +23,9 @@ $navigation = (isset($_GET['navigation']) && $_GET['navigation'] != '') ? $_GET[
     </head> 
     <body>
       <div class="header">
+        
+        
+        
       </div>
 
       <div class="navbar">
