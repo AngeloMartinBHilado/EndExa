@@ -23,11 +23,9 @@ $navigation = (isset($_GET['navigation']) && $_GET['navigation'] != '') ? $_GET[
     </head> 
     <body>
       <div class="header">
-        
-        
-        
+          
       </div>
-
+       <div style="background-image: url('img_girl.jpg');"> 
       <div class="navbar">
         <a href="index.php">Home</a>
         <a href="index.php?navigation=product">Products</a>
