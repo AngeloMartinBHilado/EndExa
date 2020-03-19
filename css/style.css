@@ -26,6 +26,7 @@
     position: sticky;
     text-align: center;
     top: 0;
+    opacity: 0.5;
   }
   
   /* Style the navigation bar links */
