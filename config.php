@@ -9,10 +9,10 @@ require_once 'vendor/autoload.php';
 $google_client = new Google_Client();
 
 //Set the OAuth 2.0 Client ID
-$google_client->setClientId('862564044784-fbpmelidspimkssnl0etfdcsp76510nc.apps.googleusercontent.com');
+$google_client->setClientId('889421152360-r47q290i5v29ilfs62cdrfrcth51ac4t.apps.googleusercontent.com');
 
 //Set the OAuth 2.0 Client Secret key
-$google_client->setClientSecret('Gos4kW0_ZZAnmUdQMvsTCocA');
+$google_client->setClientSecret('lJFU8tuxzgxyVuI9lRUPJxAA');
 
 //Set the OAuth 2.0 Redirect URI
 $google_client->setRedirectUri('https://endexam.herokuapp.com/index.php');
