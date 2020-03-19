@@ -163,7 +163,6 @@ h1{
 
 input[type=text], select {
   width: 40%;
-  background-color: rgba(255,255,255,0.2);
   padding: 12px 20px;
   margin: 8px 30%;
   display: inline-block;
@@ -176,7 +175,6 @@ input[type=text], select {
 
 input[type=submit] {
   width: 10%;
-  background-color: rgba(255,255,255,0.2);
   color: white;
   padding: 14px 20px;
   margin: 8px 45%;
