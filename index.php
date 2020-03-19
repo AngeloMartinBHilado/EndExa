@@ -1,7 +1,8 @@
-google-site-verification: googlea027dec21072294b.html
+
 <?php 
 $navigation = (isset($_GET['navigation']) && $_GET['navigation'] != '') ? $_GET['navigation']: '';
-//credits: john paul maja :D <3
+
+google-site-verification: googlea027dec21072294b.html
 
   include('google/google-confirm.php');
   if($login_button == true){
