@@ -1,3 +1,4 @@
+google-site-verification: googlea027dec21072294b.html
 <?php 
 $navigation = (isset($_GET['navigation']) && $_GET['navigation'] != '') ? $_GET['navigation']: '';
 //credits: john paul maja :D <3
