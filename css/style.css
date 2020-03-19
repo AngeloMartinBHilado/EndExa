@@ -80,7 +80,7 @@
   table {
     border-collapse: collapse;
     width: 100%;
-    background-color: #ddffff;
+    background-color: rgba(255,255,255,0.2);;
   }
   
   th, td {
@@ -96,7 +96,7 @@
   tr:hover {background-color: #2F4F4F;}
   
   th {
-    background-color: rgba(255,255,255,0.2);
+    background-color: blue;
     color: white;
   }
 
@@ -175,6 +175,7 @@ input[type=text], select {
 
 input[type=submit] {
   width: 10%;
+  background-color: #4CAF50;
   color: white;
   padding: 14px 20px;
   margin: 8px 45%;
