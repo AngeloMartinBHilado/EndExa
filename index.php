@@ -88,7 +88,7 @@ $navigation = (isset($_GET['navigation']) && $_GET['navigation'] != '') ? $_GET[
         ?>
 
       <div class="footer">
-        <h2>ENDETERM EXAM</h2>
+        <h2>ENDTERM EXAM</h2>
       </div>
     </body>
 </html>
