@@ -198,3 +198,6 @@ input[type=submit]:hover {
 .category{
   text-align: center;
 }
+images {
+	opacity 0.5;
+}
