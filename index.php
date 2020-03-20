@@ -90,7 +90,7 @@ $navigation = (isset($_GET['navigation']) && $_GET['navigation'] != '') ? $_GET[
         ?>
 
       <div class="footer">
-        <h1>Maja | API</h2> <!-- credits: john paul maja :D <3 -->
+        <h2>ENDETERM EXAM</h2> <!-- credits: john paul maja :D <3 -->
       </div>
     </body><!-- credits: john paul maja :D <3 -->
 </html>
