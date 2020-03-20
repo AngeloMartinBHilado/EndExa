@@ -8,7 +8,7 @@
   margin-left: auto;
   margin-right: auto;
   width: 50%;">
-  <img src="<?php echo $_SESSION["user_image"] ?>" alt="profile pic" style="width:50%">
+  <img src="<?php echo $_SESSION["user_image"] ?>" alt="profile pic" style="width:100%">
   <div style="text-align: center;
   padding: 5px 10px;">
   <h1>Profile Picture</h1>
