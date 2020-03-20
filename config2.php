@@ -1,13 +1,8 @@
-<?php 
+<?php
 
 require_once 'vendor/autoload.php';
 
-if (!session_id())
-{
-    session_start();
-}
-
-// Call Facebook API 
+// Call Facebook API
 
 $facebook = new \Facebook\Facebook([
   'app_id'      => '503929953628834',

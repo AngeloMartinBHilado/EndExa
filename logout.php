@@ -1,7 +1,7 @@
 <?php
 //credits: majaaaaaaa john paul majaaaaaaaaa
 
-include('google/config.php');
+include('config.php');
 
 $google_client->revokeToken();
 session_destroy();

@@ -1,4 +1,4 @@
-<?php 
+<?php //------ credits: john paul maja :D <3 
 
 require_once 'vendor/autoload.php';
 

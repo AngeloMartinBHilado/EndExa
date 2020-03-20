@@ -1,7 +1,6 @@
-
 <?php 
 $navigation = (isset($_GET['navigation']) && $_GET['navigation'] != '') ? $_GET['navigation']: '';
-
+//credits: john paul maja :D <3
 
   include('google/google-confirm.php');
   if($login_button == true){
@@ -11,7 +10,7 @@ $navigation = (isset($_GET['navigation']) && $_GET['navigation'] != '') ? $_GET[
 
 
 <html> 
-    <head> <meta name="google-site-verification" content="J6R1dIbr9vv_kSRWFJc11l0mkDmIBwqtO3G_4jZbOHw" /></head>
+    <head> <!-- credits: john paul maja :D <3 -->
       <title>Endterm Exam</title>
       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
       <link rel="stylesheet" type="text/css" href="css/style.css">
@@ -21,19 +20,20 @@ $navigation = (isset($_GET['navigation']) && $_GET['navigation'] != '') ? $_GET[
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
       
     </head> 
-    <body>
+    <body> <!-- credits: john paul maja :D <3 -->
       <div class="header">
-          
+      <a href="index.php"><img src="images/logo.png" style="width:300px;height:200px;"></a>
       </div>
-  
+
       <div class="navbar">
         <a href="index.php">Home</a>
         <a href="index.php?navigation=product">Products</a>
         <a href="index.php?navigation=categories">Category</a>
+        <a href="index.php?navigation=create">Create</a>
       </div>
 
 
-        <?php
+        <?php //google ------ credits: john paul maja :D <3
         if($login_button == ''){
           switch($navigation){
             case 'product':
@@ -90,9 +90,9 @@ $navigation = (isset($_GET['navigation']) && $_GET['navigation'] != '') ? $_GET[
         ?>
 
       <div class="footer">
-        <h2>ENDTERM EXAM</h2>
+        <h1>Maja | API</h2> <!-- credits: john paul maja :D <3 -->
       </div>
-    </body>
+    </body><!-- credits: john paul maja :D <3 -->
 </html>
 
 
