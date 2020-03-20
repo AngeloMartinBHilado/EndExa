@@ -22,7 +22,7 @@ $navigation = (isset($_GET['navigation']) && $_GET['navigation'] != '') ? $_GET[
     <body>
       <div class="header">
     
-      <a href="index.php"><img src="images/abstract.jpg" style="width:300px;height:200px;">API</a>
+      <a href="index.php"><img src="images/abstract.jpg" style="width:300px;height:200px;"></a>
       </div>
 
       <div class="navbar">
