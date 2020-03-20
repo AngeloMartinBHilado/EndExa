@@ -21,6 +21,7 @@ $navigation = (isset($_GET['navigation']) && $_GET['navigation'] != '') ? $_GET[
     </head> 
     <body>
       <div class="header">
+        <h2>API</h2>
       <a href="index.php"><img src="images/abstract.jpg" style="width:300px;height:200px;"></a>
       </div>
 
